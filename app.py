@@ -7,6 +7,7 @@ from nltk.stem.porter import PorterStemmer
 
 # Download the punkt tokenizer data
 nltk.download('punkt')
+nltk.download('stopwords')
 
 ps = PorterStemmer()
 
