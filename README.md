@@ -1,4 +1,5 @@
 **SMS Spam Classification Web App**
+Web App Link: https://msclassification.streamlit.app/
 **Overview**
 Welcome to the SMS Spam Classification Web App project! This end-to-end web application is designed to efficiently classify SMS messages as either spam or legitimate using machine learning techniques. The project incorporates a user-friendly interface deployed on Streamlit, making it accessible for easy interaction.
 
@@ -11,7 +12,7 @@ Implemented a Multinomial Naive Bayes classifier for accurate spam detection.
 Achieved an impressive 97% accuracy in distinguishing between spam and non-spam messages.
 
 **Clone the Repository**
-git clone https://github.com/your-username/sms-spam-classification.git
+git clone https://github.com/1stgt/msclass.git
 
 **Install Dependencies**
 pip install -r requirements.txt
